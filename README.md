@@ -1,5 +1,5 @@
-# n0vywOw's CS:GO Config
-Welcome to n0vywOw's CS:GO Config. This is my personal config Counter-Strike: Global Offensive, that I've decided to upload here for convienience. You can use this as a basis for your own config, as it's recommended that you tweak the settings according to your own setup and preference. The .cfg file can be edited through any text editor.
+# etheoo's CS:GO Config
+Welcome to etheoo's CS:GO Config. This is my personal config Counter-Strike: Global Offensive, that I've decided to upload here for convienience. You can use this as a basis for your own config, as I recommended that you tweak the settings according to your own setup and preference. The .cfg file can be edited through any text editor.
 
 Learn more about binds and convars on [Liquipedia](https://liquipedia.net/counterstrike/Bindings) and on [Valve's Developer Wiki](https://developer.valvesoftware.com/wiki/List_of_CS:GO_Cvars).
 
